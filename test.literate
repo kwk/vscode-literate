@@ -1,4 +1,4 @@
-# Welcome to learning the C language.
+# Welcome to the C programming language
 
 C is a rather old programming language but it is used in famous
 projects such as the [Linux Kernel](https://kernel.org).
@@ -30,7 +30,7 @@ which is a short for *standard input output*.
 
 ## The main program
 
-Every C program has a function called `main`. The skeloton of
+Every C program has a function called `main`. The skeleton of
 every `main` function looks like this: 
 
 ``` c : <<functions>>=
